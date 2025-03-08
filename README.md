@@ -1,6 +1,9 @@
 <div align="center">
   <h1>🚨 Emergency Alert System 🚨</h1>
   <p><em>A modern emergency response management platform built with Next.js and Firebase</em></p>
+  <a href="https://emergency-alert-lfkp.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20on%20Render-blue?style=for-the-badge&logo=render" alt="View on Render" />
+  </a>
 </div>
 
 ---
@@ -94,13 +97,15 @@ app/
 
 ## 📦 Deployment
 
-This application can be deployed on Vercel with minimal configuration:
+The application is currently deployed on Render:
+
+<div align="center">
+  <h3><a href="https://emergency-alert-lfkp.onrender.com/" target="_blank">https://emergency-alert-lfkp.onrender.com/</a></h3>
+</div>
+
+You can also deploy your own instance on Vercel with minimal configuration:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Femergency-alert)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
